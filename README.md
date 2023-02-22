@@ -12,5 +12,6 @@
 <div align="center">
   
   ![leesh235's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesh235&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesh235&layout=compact)](https://github.com/leesh235/github-readme-stats)
   
 </div>
