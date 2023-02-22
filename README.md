@@ -9,4 +9,4 @@
  <div align=center><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></div>
 
 ## Github Stats
-![leesh235's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesh235&show_icons=true)
+<div align=center>![leesh235's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesh235&show_icons=true)</div>
